@@ -1,0 +1,1 @@
+Python is a high-level, interpreted, general-purpose programming language widely recognized for its readability, simplicity, and versatility. It was created by Guido van Rossum and first released in 1991. 
